@@ -1,0 +1,23 @@
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\Occultationis.exe.config
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Interop.CHILKATCERTIFICATELib.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Occultationis.csproj.ResolveComReference.cache
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\Occultationis.exe
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\Occultationis.pdb
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\CodeScales.Http.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\ComputerBeacon.Json.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\ComputerBeacon.Json.xml
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Interop.FocusSim.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Interop.Pipe.dll
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Occultationis.exe
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\obj\Debug\Occultationis.pdb
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\Occultationis.exe.CodeAnalysisLog.xml
+C:\Users\Michele\documents\visual studio 2013\Projects\ConsoleApplication6\Occultationis\Occultationis\bin\Debug\Occultationis.exe.lastcodeanalysissucceeded
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\bin\Debug\Occultationis.exe.config
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Interop.CCDSimulator.dll
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Interop.CHILKATCERTIFICATELib.dll
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Interop.FocusSim.dll
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Interop.Pipe.dll
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Occultationis.csproj.ResolveComReference.cache
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Occultationis.exe
+C:\Users\Michele\Documents\GitHub\Occultationis\Occultationis\obj\Debug\Occultationis.pdb
